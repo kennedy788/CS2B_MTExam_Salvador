@@ -1,7 +1,7 @@
 let subjectTitle = "Data Structures And Algorithms";
 let classSchedule = "Tuesday and Thursday 8:00am to 9:00am";
 let classroom = "Com Lab";
-let classInstructor = "Victruvius John Barayuga";
+let classInstructor = "Mr. Victruvius John Barayuga";
 let studentName = "John Kennedy A. Salvador";
 
 
